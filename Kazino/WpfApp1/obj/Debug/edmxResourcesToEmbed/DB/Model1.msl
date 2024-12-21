@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище kazik1ModelContainer" CdmEntityContainer="kazik1Entities1">
+    <EntitySetMapping Name="Bets">
+      <EntityTypeMapping TypeName="kazik1Model.Bets">
+        <MappingFragment StoreEntitySet="Bets">
+          <ScalarProperty Name="BetID" ColumnName="BetID" />
+          <ScalarProperty Name="SessionID" ColumnName="SessionID" />
+          <ScalarProperty Name="BetAmount" ColumnName="BetAmount" />
+          <ScalarProperty Name="Result" ColumnName="Result" />
+          <ScalarProperty Name="WinAmount" ColumnName="WinAmount" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Game">
+      <EntityTypeMapping TypeName="kazik1Model.Game">
+        <MappingFragment StoreEntitySet="Game">
+          <ScalarProperty Name="GameID" ColumnName="GameID" />
+          <ScalarProperty Name="GameName" ColumnName="GameName" />
+          <ScalarProperty Name="Descr" ColumnName="Descr" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="GameSessions">
+      <EntityTypeMapping TypeName="kazik1Model.GameSessions">
+        <MappingFragment StoreEntitySet="GameSessions">
+          <ScalarProperty Name="SessionID" ColumnName="SessionID" />
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+          <ScalarProperty Name="GameID" ColumnName="GameID" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="BetAmount" ColumnName="BetAmount" />
+          <ScalarProperty Name="WinAmount" ColumnName="WinAmount" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Report">
+      <EntityTypeMapping TypeName="kazik1Model.Report">
+        <MappingFragment StoreEntitySet="Report">
+          <ScalarProperty Name="ID_Report" ColumnName="ID_Report" />
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+          <ScalarProperty Name="GameCount" ColumnName="GameCount" />
+          <ScalarProperty Name="Wins" ColumnName="Wins" />
+          <ScalarProperty Name="Losses" ColumnName="Losses" />
+          <ScalarProperty Name="AmountResult" ColumnName="AmountResult" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Role">
+      <EntityTypeMapping TypeName="kazik1Model.Role">
+        <MappingFragment StoreEntitySet="Role">
+          <ScalarProperty Name="RoleID" ColumnName="RoleID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Transactions">
+      <EntityTypeMapping TypeName="kazik1Model.Transactions">
+        <MappingFragment StoreEntitySet="Transactions">
+          <ScalarProperty Name="TransactionID" ColumnName="TransactionID" />
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+          <ScalarProperty Name="TransactionType" ColumnName="TransactionType" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+          <ScalarProperty Name="TransactionDate" ColumnName="TransactionDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="User">
+      <EntityTypeMapping TypeName="kazik1Model.User">
+        <MappingFragment StoreEntitySet="User">
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="PassHash" ColumnName="PassHash" />
+          <ScalarProperty Name="IsBanned" ColumnName="IsBanned" />
+          <ScalarProperty Name="RegistrationDate" ColumnName="RegistrationDate" />
+          <ScalarProperty Name="Balance" ColumnName="Balance" />
+          <ScalarProperty Name="Telegram" ColumnName="Telegram" />
+          <ScalarProperty Name="TelegramChatID" ColumnName="TelegramChatID" />
+          <ScalarProperty Name="RoleID" ColumnName="RoleID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

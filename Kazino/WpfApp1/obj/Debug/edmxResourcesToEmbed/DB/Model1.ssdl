@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище kazik1Model" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Bets">
+    <Key>
+      <PropertyRef Name="BetID" />
+    </Key>
+    <Property Name="BetID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SessionID" Type="int" Nullable="false" />
+    <Property Name="BetAmount" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="Result" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="WinAmount" Type="int" />
+  </EntityType>
+  <EntityType Name="Game">
+    <Key>
+      <PropertyRef Name="GameID" />
+    </Key>
+    <Property Name="GameID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="GameName" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Descr" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="GameSessions">
+    <Key>
+      <PropertyRef Name="SessionID" />
+    </Key>
+    <Property Name="SessionID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserID" Type="int" Nullable="false" />
+    <Property Name="GameID" Type="int" Nullable="false" />
+    <Property Name="Date" Type="datetime" Nullable="false" />
+    <Property Name="BetAmount" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="WinAmount" Type="decimal" Precision="18" Scale="2" />
+  </EntityType>
+  <EntityType Name="Report">
+    <Key>
+      <PropertyRef Name="ID_Report" />
+    </Key>
+    <Property Name="ID_Report" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserID" Type="int" />
+    <Property Name="GameCount" Type="int" />
+    <Property Name="Wins" Type="int" />
+    <Property Name="Losses" Type="int" />
+    <Property Name="AmountResult" Type="decimal" Precision="18" Scale="2" />
+  </EntityType>
+  <EntityType Name="Role">
+    <Key>
+      <PropertyRef Name="RoleID" />
+    </Key>
+    <Property Name="RoleID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Transactions">
+    <Key>
+      <PropertyRef Name="TransactionID" />
+    </Key>
+    <Property Name="TransactionID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserID" Type="int" Nullable="false" />
+    <Property Name="TransactionType" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="Amount" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="TransactionDate" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="UserID" />
+    </Key>
+    <Property Name="UserID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Username" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="PassHash" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="IsBanned" Type="bit" Nullable="false" />
+    <Property Name="RegistrationDate" Type="date" Nullable="false" />
+    <Property Name="Balance" Type="int" Nullable="false" />
+    <Property Name="Telegram" Type="nvarchar" MaxLength="50" />
+    <Property Name="TelegramChatID" Type="int" />
+    <Property Name="RoleID" Type="int" />
+  </EntityType>
+  <Association Name="FK_Bets_GameSessions">
+    <End Role="GameSessions" Type="Self.GameSessions" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Bets" Type="Self.Bets" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="GameSessions">
+        <PropertyRef Name="SessionID" />
+      </Principal>
+      <Dependent Role="Bets">
+        <PropertyRef Name="SessionID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_GameSessions_Game">
+    <End Role="Game" Type="Self.Game" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="GameSessions" Type="Self.GameSessions" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Game">
+        <PropertyRef Name="GameID" />
+      </Principal>
+      <Dependent Role="GameSessions">
+        <PropertyRef Name="GameID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_GameSessions_User">
+    <End Role="User" Type="Self.User" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="GameSessions" Type="Self.GameSessions" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="GameSessions">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Report_User">
+    <End Role="User" Type="Self.User" Multiplicity="0..1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Report" Type="Self.Report" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="Report">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Transactions_User">
+    <End Role="User" Type="Self.User" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Transactions" Type="Self.Transactions" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="Transactions">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_User_Role">
+    <End Role="Role" Type="Self.Role" Multiplicity="0..1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="User" Type="Self.User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Role">
+        <PropertyRef Name="RoleID" />
+      </Principal>
+      <Dependent Role="User">
+        <PropertyRef Name="RoleID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Хранилище kazik1ModelContainer">
+    <EntitySet Name="Bets" EntityType="Self.Bets" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Game" EntityType="Self.Game" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="GameSessions" EntityType="Self.GameSessions" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Report" EntityType="Self.Report" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Role" EntityType="Self.Role" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Transactions" EntityType="Self.Transactions" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="User" EntityType="Self.User" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Bets_GameSessions" Association="Self.FK_Bets_GameSessions">
+      <End Role="GameSessions" EntitySet="GameSessions" />
+      <End Role="Bets" EntitySet="Bets" />
+    </AssociationSet>
+    <AssociationSet Name="FK_GameSessions_Game" Association="Self.FK_GameSessions_Game">
+      <End Role="Game" EntitySet="Game" />
+      <End Role="GameSessions" EntitySet="GameSessions" />
+    </AssociationSet>
+    <AssociationSet Name="FK_GameSessions_User" Association="Self.FK_GameSessions_User">
+      <End Role="User" EntitySet="User" />
+      <End Role="GameSessions" EntitySet="GameSessions" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Report_User" Association="Self.FK_Report_User">
+      <End Role="User" EntitySet="User" />
+      <End Role="Report" EntitySet="Report" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Transactions_User" Association="Self.FK_Transactions_User">
+      <End Role="User" EntitySet="User" />
+      <End Role="Transactions" EntitySet="Transactions" />
+    </AssociationSet>
+    <AssociationSet Name="FK_User_Role" Association="Self.FK_User_Role">
+      <End Role="Role" EntitySet="Role" />
+      <End Role="User" EntitySet="User" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

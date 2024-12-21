@@ -1,0 +1,185 @@
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\obj\Debug\Pages\Reg.g.cs
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\obj\Debug\Pages\Reg.baml
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\obj\Debug\Pages\Login.g.cs
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\obj\Debug\Pages\Login.baml
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\obj\Debug\Pages\Menu.g.cs
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\obj\Debug\Pages\Menu.baml
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\obj\Debug\Pages\Deposit.g.cs
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\obj\Debug\Pages\Deposit.baml
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\bin\Debug\Telegram.Bot.dll
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\bin\Debug\Telegram.Bot.pdb
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\bin\Debug\Telegram.Bot.xml
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\bin\Debug\QRCoder.dll
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\bin\Debug\Wpf.Ui.dll
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\bin\Debug\Wpf.Ui.pdb
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\bin\Debug\Wpf.Ui.xml
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\obj\Debug\App.baml
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\bin\Debug\System.Drawing.Common.dll
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\bin\Debug\System.Drawing.Common.pdb
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\bin\Debug\System.Drawing.Common.xml
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\obj\Debug\Pages\Crash.g.cs
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\obj\Debug\Pages\Crash.baml
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\obj\Debug\Pages\Profile.g.cs
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\obj\Debug\Pages\Reports.g.cs
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\obj\Debug\Pages\Profile.baml
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\obj\Debug\Pages\Reports.baml
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\obj\Debug\Pages\Report.g.cs
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\obj\Debug\Pages\Report.baml
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\obj\Debug\Pages\Mometka.g.cs
+C:\Users\mrtro\source\repos\WpfApp1\WpfApp1\obj\Debug\Pages\Mometka.baml
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\bin\Debug\QRCoder.dll
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\bin\Debug\System.Drawing.Common.dll
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\bin\Debug\Telegram.Bot.dll
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\bin\Debug\Wpf.Ui.dll
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\bin\Debug\System.Drawing.Common.pdb
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\bin\Debug\System.Drawing.Common.xml
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\bin\Debug\Telegram.Bot.pdb
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\bin\Debug\Telegram.Bot.xml
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\bin\Debug\Wpf.Ui.pdb
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\bin\Debug\Wpf.Ui.xml
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\obj\Debug\Pages\Crash.g.cs
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\obj\Debug\Pages\Deposit.g.cs
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\obj\Debug\Pages\Login.g.cs
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\obj\Debug\Pages\Menu.g.cs
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\obj\Debug\Pages\Mometka.g.cs
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\obj\Debug\Pages\Profile.g.cs
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\obj\Debug\Pages\Reg.g.cs
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\obj\Debug\Pages\Report.g.cs
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\obj\Debug\Pages\Reports.g.cs
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\obj\Debug\App.baml
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\obj\Debug\Pages\Crash.baml
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\obj\Debug\Pages\Deposit.baml
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\obj\Debug\Pages\Login.baml
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\obj\Debug\Pages\Menu.baml
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\obj\Debug\Pages\Mometka.baml
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\obj\Debug\Pages\Profile.baml
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\obj\Debug\Pages\Reg.baml
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\obj\Debug\Pages\Report.baml
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\obj\Debug\Pages\Reports.baml
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\obj\Debug\Pages\Admin.g.cs
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\obj\Debug\Pages\Admin.baml
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\obj\Debug\Pages\Profile1.g.cs
+C:\Users\mrtro\source\repos\WpfApp1 (2)\WpfApp1\WpfApp1\obj\Debug\Pages\Profile1.baml
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\bin\Debug\QRCoder.dll
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\bin\Debug\System.Drawing.Common.dll
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\bin\Debug\Telegram.Bot.dll
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\bin\Debug\Wpf.Ui.dll
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\bin\Debug\System.Drawing.Common.pdb
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\bin\Debug\System.Drawing.Common.xml
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\bin\Debug\Telegram.Bot.pdb
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\bin\Debug\Telegram.Bot.xml
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\bin\Debug\Wpf.Ui.pdb
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\bin\Debug\Wpf.Ui.xml
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\obj\Debug\Pages\Admin.g.cs
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\obj\Debug\Pages\Crash.g.cs
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\obj\Debug\Pages\Deposit.g.cs
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\obj\Debug\Pages\Login.g.cs
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\obj\Debug\Pages\Menu.g.cs
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\obj\Debug\Pages\Mometka.g.cs
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\obj\Debug\Pages\Profile1.g.cs
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\obj\Debug\Pages\Profile.g.cs
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\obj\Debug\Pages\Reg.g.cs
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\obj\Debug\Pages\Report.g.cs
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\obj\Debug\Pages\Reports.g.cs
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\obj\Debug\App.baml
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\obj\Debug\Pages\Admin.baml
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\obj\Debug\Pages\Crash.baml
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\obj\Debug\Pages\Deposit.baml
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\obj\Debug\Pages\Login.baml
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\obj\Debug\Pages\Menu.baml
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\obj\Debug\Pages\Mometka.baml
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\obj\Debug\Pages\Profile1.baml
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\obj\Debug\Pages\Profile.baml
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\obj\Debug\Pages\Reg.baml
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\obj\Debug\Pages\Report.baml
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\obj\Debug\Pages\Reports.baml
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\саша\Desktop\Далия\РПМ\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
